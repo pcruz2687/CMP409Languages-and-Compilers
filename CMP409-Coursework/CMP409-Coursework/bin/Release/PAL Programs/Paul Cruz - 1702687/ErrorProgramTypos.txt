@@ -1,0 +1,19 @@
+PROGRAM 
+	InputListAndIfElseStatement
+WITH 
+	x, y, z AS INTgER
+	k as REAL
+	g AS reaL
+IN
+	INPUT x, y, z
+	x = 12
+	y = 54
+	z = 0
+
+	IF y < 9
+	THN
+		z = + x
+	ESE
+		z = + y
+	ENIF
+END

@@ -1,0 +1,9 @@
+PROGRAM 
+	SimpleLoop
+WITH 
+	x AS INTEGER
+IN 
+	UNTIL x = 3
+		REPEAT x = +1 
+	ENDLOOP
+END

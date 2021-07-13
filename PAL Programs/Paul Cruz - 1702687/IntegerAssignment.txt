@@ -1,0 +1,9 @@
+PROGRAM 
+	IntegerAssignment
+WITH 
+	x, y AS INTEGER
+	z AS REAL
+IN 
+	x = 3
+	z = 3.0
+END

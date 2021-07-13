@@ -1,0 +1,4 @@
+PROGRAM recTypeTest
+WITH x AS 
+IN x = 1
+END

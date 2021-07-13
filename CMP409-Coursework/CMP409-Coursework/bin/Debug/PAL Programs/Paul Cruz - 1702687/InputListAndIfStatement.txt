@@ -1,0 +1,15 @@
+PROGRAM 
+	InputListAndIfStatement
+WITH 
+	x, y, z AS INTEGER
+IN
+	INPUT x, y, z
+	x = 3
+	y = 9
+	z = 0
+
+	IF x = 3
+	THEN
+		z = 5
+	ENDIF
+END

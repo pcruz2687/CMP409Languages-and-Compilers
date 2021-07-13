@@ -1,0 +1,11 @@
+PROGRAM
+	ErrorAssignIntToRealAndRealToInt
+WITH
+	x AS INTEGER
+	y AS REAL
+IN
+    x = * 1
+    y = * 2
+    x = / 3
+    y = / 4
+END

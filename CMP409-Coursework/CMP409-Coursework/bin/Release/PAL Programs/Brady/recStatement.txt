@@ -1,0 +1,4 @@
+PROGRAM recStatementTest
+WITH x AS REAL
+IN
+END

@@ -1,0 +1,10 @@
+PROGRAM
+	programName
+
+WITH
+	x AS INTEGER	
+
+IN
+	
+
+END		

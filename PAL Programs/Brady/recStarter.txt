@@ -1,0 +1,4 @@
+PROGRAM 
+x AS INTEGER
+IN x = 1
+

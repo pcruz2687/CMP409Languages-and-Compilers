@@ -1,0 +1,9 @@
+PROGRAM 
+	ErrorInputListUndeclaredVariable
+WITH 
+	x AS INTEGER
+	y AS REAL
+	z AS INTEGER
+IN
+	INPUT x, y,
+END

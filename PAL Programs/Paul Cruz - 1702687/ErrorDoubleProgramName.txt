@@ -1,0 +1,7 @@
+PROGRAM 
+	ErrorDoubleProgramName1 ErrorDoubleProgramName2 
+WITH 
+	x AS INTEGER
+IN
+	x = 1
+END

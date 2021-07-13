@@ -1,0 +1,18 @@
+PROGRAM
+	programName
+
+WITH
+	x,y,z AS INTEGER
+	a AS REAL	
+
+IN
+	x = 0
+
+	UNTIL
+		x > 20
+	REPEAT
+		x = x + 1
+	ENDLOOP
+	
+
+END		

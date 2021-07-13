@@ -1,0 +1,4 @@
+PROGRAM recVarDeclsTest
+WITH x, a, s, b AS INTEGER
+IN x = 7
+END

@@ -1,0 +1,11 @@
+PROGRAM
+	ErrorAssignIntToRealAndRealToInt
+WITH
+	x AS INTEGER
+	y AS REAL
+IN
+	x = y
+	y = x
+	x = 1.0
+	y = 5
+END

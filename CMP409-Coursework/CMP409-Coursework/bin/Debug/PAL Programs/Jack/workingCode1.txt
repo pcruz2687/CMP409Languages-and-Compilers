@@ -1,0 +1,20 @@
+PROGRAM
+	programName
+
+WITH
+	x,y,z AS INTEGER
+	a AS REAL	
+
+IN
+	x = 0
+	y = 0
+
+	IF
+		x = y
+	THEN
+		x = y + 1
+		y = 1		
+		z = y + x	
+	ENDIF
+	
+END		

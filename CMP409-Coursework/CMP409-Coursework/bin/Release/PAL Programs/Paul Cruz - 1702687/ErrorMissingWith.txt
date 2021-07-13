@@ -1,0 +1,11 @@
+PROGRAM
+	ErrorMissingWith
+
+	x, y AS INTEGER
+	z AS REAL
+IN
+	INPUT x, y, z
+	OUTPUT x, y, z
+END
+
+	

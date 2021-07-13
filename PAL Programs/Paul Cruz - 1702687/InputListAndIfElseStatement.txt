@@ -1,0 +1,17 @@
+PROGRAM 
+	InputListAndIfElseStatement
+WITH 
+	x, y, z AS INTEGER
+IN
+	INPUT x, y, z
+	x = 12
+	y = 54
+	z = 0
+
+	IF y < 9
+	THEN
+		z = + x
+	ELSE
+		z = + y
+	ENDIF
+END

@@ -1,0 +1,7 @@
+PROGRAM 
+	ErrorAssignment2
+WITH 
+	x AS INTEGER
+IN
+	x 5
+END

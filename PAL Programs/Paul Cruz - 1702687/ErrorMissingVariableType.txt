@@ -1,0 +1,9 @@
+PROGRAM
+	ErrorAssignIntToRealAndRealToInt
+WITH
+	x AS 
+	y AS 
+IN
+	x = 3
+	y = 5.0
+END

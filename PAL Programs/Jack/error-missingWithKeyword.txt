@@ -1,0 +1,18 @@
+PROGRAM
+	programName
+	
+
+	x,y,z AS INTEGER
+	a AS REAL	
+
+IN
+	x = 10
+	a = 1.0
+
+	OUTPUT
+		x + 1,
+		2,
+		a
+	
+
+END		

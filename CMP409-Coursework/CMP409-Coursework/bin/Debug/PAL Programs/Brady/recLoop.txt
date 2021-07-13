@@ -1,0 +1,4 @@
+PROGRAM recLooprecBoolExprTest
+WITH x AS INTEGER
+IN UNTIL x = 5 REPEAT x = 1 + 1 ENDLOOP
+END

@@ -1,0 +1,7 @@
+PROGRAM 
+	ErrorMissingStatement
+WITH 
+	x AS INTEGER
+IN
+	= 3
+END

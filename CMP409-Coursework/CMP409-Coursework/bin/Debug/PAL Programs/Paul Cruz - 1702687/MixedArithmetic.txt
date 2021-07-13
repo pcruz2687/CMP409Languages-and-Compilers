@@ -1,0 +1,14 @@
+PROGRAM
+	MixedArithmetic
+WITH 
+	x, y AS INTEGER 
+	i, j AS REAL
+IN 
+	x = 100
+	y = 10
+	i = 50.50
+	j = 0.25
+	
+	x = + y / y
+	i = i * j / j
+END

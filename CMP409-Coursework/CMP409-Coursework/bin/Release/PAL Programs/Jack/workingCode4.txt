@@ -1,0 +1,11 @@
+PROGRAM
+	programName
+
+WITH
+	x, y, z AS INTEGER
+	a, b, c AS REAL	
+
+IN
+	a = +1.0
+
+END		

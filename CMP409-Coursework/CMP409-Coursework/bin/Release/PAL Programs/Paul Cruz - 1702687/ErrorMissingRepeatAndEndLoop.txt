@@ -1,0 +1,15 @@
+PROGRAM
+	ErrorMissingRepeatAndEndLoop
+WITH
+	x, y AS REAL
+	z AS INTEGER
+IN
+	UNTIL z > 23
+	REPEAT 
+		z = + 1
+		UNTIL z < 12
+		
+			OUTPUT x + 3.1, y + 2.61
+		
+	ENDLOOP
+END
